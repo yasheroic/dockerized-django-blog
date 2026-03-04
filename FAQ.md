@@ -1,16 +1,3 @@
-Good question. A project like this is **very interviewable**, especially for **DevOps / backend / platform roles**. I’ll break this into:
-
-1️⃣ Basic questions
-2️⃣ Docker questions
-3️⃣ Compose & networking questions
-4️⃣ Application & migration questions
-5️⃣ Security questions
-6️⃣ Advanced “good candidate” questions
-
-These are **exactly the kinds of things interviewers ask**.
-
----
-
 # 1️⃣ Project Overview Questions
 
 ### Q: What does this project do?
