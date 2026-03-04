@@ -306,7 +306,7 @@ Possible improvements:
 
 ---
 
-# 12️⃣ Best Question You Can Ask Interviewer
+# 12️⃣ Best Question You Can Ask
 
 Shows maturity:
 
