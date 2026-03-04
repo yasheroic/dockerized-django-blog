@@ -294,7 +294,7 @@ Possible answers:
 
 ---
 
-# 11️⃣ Security Improvements Interviewers Love
+# 11️⃣ Security Improvements
 
 Possible improvements:
 
